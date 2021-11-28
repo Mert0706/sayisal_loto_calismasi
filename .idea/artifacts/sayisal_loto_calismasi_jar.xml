@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sayisal_loto_calismasi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sayisal_loto_calismasi_jar</output-path>
+    <root id="archive" name="sayisal_loto_calismasi.jar">
+      <element id="module-output" name="sayisal_loto_calismasi" />
+    </root>
+  </artifact>
+</component>
